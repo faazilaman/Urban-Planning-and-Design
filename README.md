@@ -1,4 +1,4 @@
-### 🌆 Urban Planning and Design: A Data-Driven Approach
+# 🌆 Urban Planning and Design: A Data-Driven Approach
 This project explores how data analysis, simulation, and 3D visualization can be combined to improve urban planning. By analyzing key metrics like traffic flow, land use, and population density, the goal is to design smarter, more efficient, and sustainable cities.
 ------------------------------------------------
 ### 🔍 Key Highlights
